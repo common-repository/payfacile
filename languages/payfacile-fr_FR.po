@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: payfacile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-20 21:34+0100\n"
+"PO-Revision-Date: 2016-07-01 13:52+0100\n"
+"Last-Translator: tom <homeof@gmail.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c;_n:1,2;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: payfacile\n"
+
+#: payfacile/payfacile.php:117
+msgid "button"
+msgstr "Bouton"
+
+#: payfacile/payfacile.php:118
+msgid "product url"
+msgstr "URL du produit"
+
+#: payfacile/payfacile.php:119
+msgid "product url label"
+msgstr "Copiez ici une URL de votre page produit"
+
+#: payfacile/payfacile.php:120
+msgid "button text"
+msgstr "Texte du bouton"
+
+#: payfacile/payfacile.php:121
+msgid "button label"
+msgstr "Texte du bouton"
+
+#: payfacile/payfacile.php:122
+msgid "button buy default"
+msgstr "ACHETER MAINTENANT"
+
+#: payfacile/payfacile.php:123
+msgid "text color"
+msgstr "Couleur du texte"
+
+#: payfacile/payfacile.php:124
+msgid "background color"
+msgstr "Couleur du fond"
+
+#: payfacile/payfacile.php:125
+msgid "type of target window"
+msgstr "Type de fenêtre"
+
+#: payfacile/payfacile.php:126
+msgid "type of target window popup"
+msgstr "\"Modal box\""
+
+#: payfacile/payfacile.php:127
+msgid "type of target window new"
+msgstr "Nouvelle fenêtre"
+
+#: payfacile/payfacile.php:128
+msgid "type of target window label"
+msgstr "Type de fenêtre"
+
+#: payfacile/payfacile.php:130
+msgid "iframe width"
+msgstr "Largeur iframe (en %)"
+
+#: payfacile/payfacile.php:131
+msgid "iframe height"
+msgstr "Hauteur iframe (en px)"
+
+#: payfacile/payfacile.php:132
+msgid "iframe height label"
+msgstr "Hauteur en px"
+
+#: payfacile/payfacile.php:133
+msgid "iframe width label"
+msgstr "Largeur en %"
+
+#: payfacile/payfacile.php:134
+msgid "outline color"
+msgstr "Couleur du contour"
+
+#: payfacile/payfacile.php:135
+msgid "outline width"
+msgstr "Epaisseur du contour"
+
+#: payfacile/payfacile.php:136
+msgid "outline color label"
+msgstr "Couleur du contour"
+
+#: payfacile/payfacile.php:137
+msgid "outline width label"
+msgstr "en px"
+
+#: payfacile/payfacile.php:138
+msgid "choose color"
+msgstr "Choisissez une couleur"
+
+#: payfacile/payfacile.php:139
+msgid "insert shortcode"
+msgstr "Ajouter le shortcode"
+
+#: payfacile/payfacile.php:140
+msgid "cancel"
+msgstr "Annuler"
+
+#: payfacile/payfacile.php:141
+msgid "limit 20 chars"
+msgstr "Le texte du bouton est limité à 20 caractères max"
+
+#: payfacile/inc/settings-template.php:5
+msgid "Large help page"
+msgstr ""
+"<h1>Plugin WordPress Payfacile</h1> Rendez votre site WordPress “marchand” "
+"en quelques minutes seulement. Encaissez des paiements ponctuels et "
+"récurrents à partir de votre site WordPress avec Payfacile. Si vous n’avez "
+"pas encore de compte Payfacile, rendez-­vous sur <a href=\"https://www."
+"payfacile.com\">Payfacile.com.</a><h2>Options d’intégration</h2>Vous pouvez "
+"choisir entre les différentes options pour intégrer vos pages de paiement "
+"Payfacile à votre site Wordpress :­ <ull><li>Bouton “Acheter maintenant”</"
+"li><li>Widget i­frame (embed)</li></ul><h2>Utiliser l’extension</h2>Lorsque "
+"vous ouvrez l’interface d’édition d’un article ou d’une page, vous verrez un "
+"bouton“payfacile” dans la barre d’outil. Cliquez sur ce bouton pour faire "
+"apparaître la fenêtre permettant de personnaliser votre intégration. Un "
+"“Shortcode” sera généré comportant tous les paramètres de l’intégration.Vous "
+"pouvez aussi intégrer Payfacile dans votre “Sidebar” en utilisant le menu "
+"Widgets.Glissez simplement “Payfacile” dans la section de votre choix et "
+"choisissez les options de votre intégration.<h2>Intégrer un bouton ou un "
+"widget</h2>Pour intégrer un bouton ou un widget, vous aurez besoin de "
+"l’adresse internet de votre page de paiement Payfacile. Pour trouver "
+"l’adresse URL, rendez­-vous sur “Mes Produits” dans votre interface "
+"Payfacile, choisissez le produit à intégrer et cliquez sur le bouton "
+"approprié à votre type d’intégration. Le lien est copié dans votre presse-­"
+"papier. Collez-le ensuite à l’endroit indiqué."
+
+#: payfacile/inc/settings.php:22 payfacile/inc/settings.php:23
+msgid "Payfacile"
+msgstr "Payfacile"
+
+#: payfacile/inc/settings.php:33
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#~ msgid "Settings"
+#~ msgstr "zerer"
+
+#~ msgid "Support"
+#~ msgstr "AIde"

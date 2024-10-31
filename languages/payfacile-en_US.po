@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: payfacile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-20 21:34+0100\n"
+"PO-Revision-Date: 2016-07-01 13:51+0100\n"
+"Last-Translator: tom <homeof@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c;_n:1,2;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: payfacile\n"
+
+#: payfacile/payfacile.php:117
+msgid "button"
+msgstr "Button"
+
+#: payfacile/payfacile.php:118
+msgid "product url"
+msgstr "Product url"
+
+#: payfacile/payfacile.php:119
+msgid "product url label"
+msgstr "Web address of your checkout page"
+
+#: payfacile/payfacile.php:120
+msgid "button text"
+msgstr "Button text"
+
+#: payfacile/payfacile.php:121
+msgid "button label"
+msgstr "Displayed text for button"
+
+#: payfacile/payfacile.php:122
+msgid "button buy default"
+msgstr "BUY NOW"
+
+#: payfacile/payfacile.php:123
+msgid "text color"
+msgstr "Text color"
+
+#: payfacile/payfacile.php:124
+msgid "background color"
+msgstr "Background color"
+
+#: payfacile/payfacile.php:125
+msgid "type of target window"
+msgstr "Open"
+
+#: payfacile/payfacile.php:126
+msgid "type of target window popup"
+msgstr "Modal box"
+
+#: payfacile/payfacile.php:127
+msgid "type of target window new"
+msgstr "New window"
+
+#: payfacile/payfacile.php:128
+msgid "type of target window label"
+msgstr "type of target window"
+
+#: payfacile/payfacile.php:130
+msgid "iframe width"
+msgstr "iframe width (%)"
+
+#: payfacile/payfacile.php:131
+msgid "iframe height"
+msgstr "iframe height (px)"
+
+#: payfacile/payfacile.php:132
+msgid "iframe height label"
+msgstr "iframe height"
+
+#: payfacile/payfacile.php:133
+msgid "iframe width label"
+msgstr "iframe width"
+
+#: payfacile/payfacile.php:134
+msgid "outline color"
+msgstr "Outline color"
+
+#: payfacile/payfacile.php:135
+msgid "outline width"
+msgstr "Outline width"
+
+#: payfacile/payfacile.php:136
+msgid "outline color label"
+msgstr "Outline color"
+
+#: payfacile/payfacile.php:137
+msgid "outline width label"
+msgstr "Outline width  (px) "
+
+#: payfacile/payfacile.php:138
+msgid "choose color"
+msgstr "Choose color"
+
+#: payfacile/payfacile.php:139
+msgid "insert shortcode"
+msgstr " Insert shortcode "
+
+#: payfacile/payfacile.php:140
+msgid "cancel"
+msgstr "Cancel"
+
+#: payfacile/payfacile.php:141
+msgid "limit 20 chars"
+msgstr "Text is limited at 20 chars "
+
+#: payfacile/inc/settings-template.php:5
+msgid "Large help page"
+msgstr ""
+"<h1>Payfacile WordPress Plugin</h1>Turn your Wordpress site into an e­"
+"commerce in minutes. Accept one ­off and recurring payments from your "
+"WordPress site with Payfacile. If you don't already have a Payfacile "
+"account, set one up now at <a href=\"https://www.payfacile.com\">payfacile."
+"com</a>.<h2>Embed options</h2>You can choose from the following options to "
+"integrate Payfacile with your WordPress site:<ul><li>­A Buy Now button­ </"
+"li><li>A widget i­frame (embed)</li></ul><h2>Using the plugin</h2>You can use "
+"the user interface or short codes to embed your items. Using the interface "
+"is easiest. If you're in a post or page, you will see a \"payfacile\" button "
+"in your toolbar. Click it to display the modal to embed your item with "
+"options for customisation. This will generate the required shortcode for you."
+"You can also embed items to your sidebar using the Widgets menu. Simply drag "
+"\"Payfacile\"into your the widget container of your choice and customize "
+"your embed.<h2>Embed a buy button or widget</h2>To embed a button or widget, "
+"you need the URL for your item. To find the URL, head to “My Products” on "
+"your Payfacile interface. Choose the product you want to embed, and select "
+"the appropriate embed option. Copy the link into your clipboard and paste it "
+"at the correct place."
+
+#: payfacile/inc/settings.php:22 payfacile/inc/settings.php:23
+msgid "Payfacile"
+msgstr "Payfacile"
+
+#: payfacile/inc/settings.php:33
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#~ msgid "Settings"
+#~ msgstr "Settings"
+
+#~ msgid "Support"
+#~ msgstr "zer"

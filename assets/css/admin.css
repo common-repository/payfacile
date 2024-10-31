@@ -1,0 +1,99 @@
+.mce-toolbar  i.mce-i-payfacile.mce-ico{
+    background: url('../img/index.png');
+    background-size: 16px auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    height: 20px;
+    border: 1px solid #26a69a;
+    border-radius: 7px;
+    background-color: #fff;
+}
+#payfacile-modal{
+	background:#ccc;
+}
+#payfacile-modal-title {
+    text-align: center;
+    font-size: 31px;
+    padding: 9px 0;
+    color:#424242;
+}
+#payfacile-modal .mce-primary{
+    background-color: #26a69a;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    text-shadow: none;
+   
+}
+#payfacile-modal .mce-label, #payfacile-modal .asbold{
+	font-weight:bold;
+}
+
+#payfacile-modal .color_preview{
+    height:20px;
+    width:100%;
+    float:left;
+    display: block;
+    margin:6px 0;
+    padding:3px;
+    border-radius:2px;
+    border: 1px solid #ccc;
+}
+
+#payfacile-modal .mce-tabs{
+	padding: 10px 0;
+    text-align: center;
+    border-bottom: 2px solid #dadada;
+}
+#payfacile-modal .mce-tab {
+    display: inline-block;
+    border: none;
+    padding: 8px;
+    height: 13px;
+    cursor: pointer;
+	font-weight: bold;
+    font-size: 20px;
+}
+#payfacile-modal .mce-tab.mce-active{
+    color: #26a69a;
+    border-bottom:2px solid #26a69a;
+}
+#payfacile-modal .mce-tab.mce-active:focus {
+    outline: none;
+    -webkit-box-shadow:none;
+    box-shadow: none;
+}
+
+#payfacile-modal #text_button_checkmessage{
+	text-align:right;
+	color:#ccc;
+}
+#payfacile-modal #text_button_checkmessage span,
+#payfacile-modal .mce-container .mce-fakelabel p.right
+{
+	text-align: right;
+    color: #ccc;
+    width: 100%;
+    display: block;
+    font-size: 13px;
+}
+
+#payfacile-modal .mce-container .mce-fakelabel{
+	color:#ccc;
+}
+
+
+#payfacile-modal .wp-picker-active .wp-picker-holder
+{
+    margin-top: 34px;
+    background: #fff;
+    z-index: 999999;
+    position: absolute;
+    padding: 6px 10px;
+}
+#payfacile-modal .wp-picker-clear{
+    display: none;
+}
+
+
